@@ -1,6 +1,6 @@
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThhZG51b3Q1MzExb2hmcDdobDJhNnRkcDkyZG05ZzUwZDA2dzhnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" height="100"/> Welcome to Fido's repository 💻 <img src="https://media.tenor.com/7OM1QNVM3-wAAAAM/archpepe.gif" width="100" height="100"/>
+# <img src="https://media.tenor.com/7OM1QNVM3-wAAAAM/archpepe.gif" width="100" height="100"/> Welcome to Fido's repository 💻🚀 
 
-![banner](./public/banner.png)
+![banner](./public/background.png)
 
 ## Skills ⭐
 
